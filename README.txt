@@ -11,6 +11,7 @@ Included:
 - Course filters
 - Term progress and class counts
 - Mobile responsive + installable PWA
+- Day footnotes for quiz/guest lecture windows, MAD Project, Placement and Sangram
 - Offline cache after first load
 
 DEPLOY
