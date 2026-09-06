@@ -1,0 +1,15 @@
+{
+  "name": "Abhishek's Term V Timetable",
+  "short_name": "Term V",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080a0f",
+  "theme_color": "#0b0d13",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
